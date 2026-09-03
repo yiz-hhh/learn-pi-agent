@@ -1,0 +1,12 @@
+{
+  "name": "chapter-12-coding-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 12 章：Coding Agent（真编码工具集 + 组装 Trace，Part IV Product）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}
