@@ -1,0 +1,12 @@
+{
+  "name": "chapter-03-tool-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 03 章：Tool Runtime（工具执行流水线）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

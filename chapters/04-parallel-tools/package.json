@@ -1,0 +1,12 @@
+{
+  "name": "chapter-04-parallel-tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 04 章：Parallel Tool Execution（并发执行与保序）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

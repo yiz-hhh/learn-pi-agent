@@ -1,0 +1,21 @@
+{
+  "name": "chapter-01-tool-driven-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 01 章：Tool Calling（最小 Agent Loop）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.121.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}

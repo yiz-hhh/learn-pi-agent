@@ -1,0 +1,21 @@
+{
+  "name": "chapter-02-agent-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 02 章：Agent Runtime（context / turn / 事件 / 终止语义）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.121.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}

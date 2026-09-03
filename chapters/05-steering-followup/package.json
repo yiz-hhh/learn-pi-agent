@@ -1,0 +1,12 @@
+{
+  "name": "chapter-05-steering-followup",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 05 章：Steering & Follow-up（双层循环）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}
