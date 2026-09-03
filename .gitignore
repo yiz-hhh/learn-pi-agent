@@ -1,0 +1,14 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 系统与编辑器
+.DS_Store
+.idea/
+
+# 日志与临时文件
+*.log
+
+# VitePress 构建缓存
+website/.vitepress/cache/

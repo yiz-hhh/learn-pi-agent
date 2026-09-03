@@ -1,0 +1,13 @@
+{
+  "name": "learn-pi-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "从最小 Tool-driven Loop 开始，逐步重建 Pi Agent Core（教学 monorepo）",
+  "workspaces": ["chapters/*"],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "check:docs": "node scripts/check-docs.mjs"
+  }
+}

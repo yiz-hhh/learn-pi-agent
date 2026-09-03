@@ -1,0 +1,12 @@
+{
+  "name": "chapter-00-minimal-llm-call",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 00 章：Minimal LLM Loop（共享基座：类型/适配器/EventStream/工具）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}
