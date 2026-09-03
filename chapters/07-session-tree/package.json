@@ -1,0 +1,12 @@
+{
+  "name": "chapter-07-session-tree",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 07 章：Session Tree（Agent 封装 + Entry 树会话，Part II Reduce it）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

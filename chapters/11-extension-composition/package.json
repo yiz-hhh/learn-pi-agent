@@ -1,0 +1,12 @@
+{
+  "name": "chapter-11-extension-composition",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 11 章：Extension Composition（用扩展组合工作流，Part III Extensibility）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

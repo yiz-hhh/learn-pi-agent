@@ -1,0 +1,12 @@
+{
+  "name": "chapter-10-extension-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 10 章：Extension Runtime（可编程 Harness 边界，Part III Understand it）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

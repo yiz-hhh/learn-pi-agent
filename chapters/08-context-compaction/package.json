@@ -1,0 +1,12 @@
+{
+  "name": "chapter-08-context-compaction",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 08 章：Context Compaction（上下文压缩，Part II Reduce it）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}

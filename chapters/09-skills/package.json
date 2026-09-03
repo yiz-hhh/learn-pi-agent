@@ -1,0 +1,12 @@
+{
+  "name": "chapter-09-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 第 09 章：Skills（延迟加载能力说明，Part II Agent Harness）",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx src/demo.ts"
+  }
+}
