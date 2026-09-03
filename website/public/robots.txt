@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yiz-hhh.github.io/learn-pi-agent/sitemap.xml

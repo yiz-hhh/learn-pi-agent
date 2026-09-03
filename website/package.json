@@ -1,0 +1,16 @@
+{
+  "name": "learn-pi-agent-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "learn-pi-agent 文档站（VitePress）：Pi Agent 架构中文教程，13 章逐行锚定源码",
+  "scripts": {
+    "sync": "node scripts/sync-readmes.mjs",
+    "docs:dev": "node scripts/sync-readmes.mjs && vitepress dev .",
+    "docs:build": "node scripts/sync-readmes.mjs && vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">learn-pi-agent</title>
+  <desc id="desc">从零拆解 Pi Agent 的中文教学项目</desc>
+  <rect width="1200" height="630" fill="#101713"/>
+  <path d="M0 510H1200" stroke="#304037" stroke-width="2"/>
+  <path d="M72 92H1128" stroke="#55c79b" stroke-width="4"/>
+  <text x="72" y="190" fill="#55c79b" font-family="monospace" font-size="28" letter-spacing="4">LEARN / PI / AGENT</text>
+  <text x="72" y="315" fill="#e7eee8" font-family="sans-serif" font-size="72" font-weight="700">从零拆解 Pi Agent</text>
+  <text x="72" y="382" fill="#b0c0b5" font-family="sans-serif" font-size="30">13 章 · TypeScript · Agent Loop → Coding Agent</text>
+  <text x="72" y="560" fill="#819287" font-family="monospace" font-size="22">yiz-hhh / learn-pi-agent</text>
+</svg>
